@@ -1,0 +1,17 @@
+body {
+    background: khaki;
+text-align:center; font-style: italic;}
+
+canvas {display:inline;
+    border: 1px solid white;}
+	
+	#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+#btn1{padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:12px;
+  margin: 8px 4px;}
